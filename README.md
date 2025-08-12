@@ -55,6 +55,6 @@ All with a focus on **security**, **scalability**, and **clean architecture** â€
 
 - **Website**: [emilushi.dev](https://emilushi.dev)  
 - **LinkedIn**: [linkedin.com/in/emilushi](https://linkedin.com/in/emilushi)  
-- **Twitter**: [@edmilushi](https://twitter.com/eduardmilushi)  
+- **Twitter**: [@edmilushi](https://twitter.com/edmilushi)  
 - **GitHub**: [github.com/emilushi](https://github.com/emilushi)
 - **Instagram**: [@edmilushi](https://www.instagram.com/edmilushi?igsh=MTZpam5vZjNwZTNzNA%3D%3D&utm_source=qr)
