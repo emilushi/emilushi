@@ -12,9 +12,9 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-&nbsp;&nbsp;&nbsp;&nbsp;⬛ `Senior Software Engineer` · `AI-Augmented Dev` · `WordCamp Europe Organizer`&nbsp;&nbsp;&nbsp;⬛  
-&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+<div align="center">
+`Senior Software Engineer` &nbsp;·&nbsp; `AI-Augmented Dev` &nbsp;·&nbsp; `WordCamp Europe Organizer`
+</div>
 
 ---
 
