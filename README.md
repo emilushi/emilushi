@@ -1,60 +1,113 @@
-# Eduard Milushi
+<div align="center">
 
-**Software Engineer · Adventurer · Creator of Tools, Trails & Ideas**
+![Eduard Milushi](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=500&lines=Eduard+Milushi;emilushi.dev;Senior+Software+Engineer)
 
-> _"Code by day, climb by dawn. Paint when it rains. Seek meaning always."_
+> _"Most people have stopped thinking. I build for the ones who haven't."_
 
----
+<br>
 
-## Who Am I?
+[![Toptal](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-0d0f14?style=for-the-badge&logo=toptal&logoColor=c8a96e)](https://www.toptal.com/developers/resume/eduard-milushi)
 
-I'm Eduard, a software developer who finds elegance in logic and meaning in movement.
-
-By trade, I craft scalable web apps, architect headless CMS ecosystems, and develop tools that make digital life smoother.  
-By nature, I chase trails, sunrises, and stories written in the wild. I believe technology should **empower** us to live **freer, deeper, and more intentionally**.
+</div>
 
 ---
 
-## Platforms I've Built
-
-I design and develop full-stack platforms tailored for:
-
-- 🧭 **Adventure & Travel** – route planning, gear rentals, GPS-based tours, booking systems  
-- 🧑‍🏫 **Education & E-learning** – LearnDash-based courses, virtual instructors, gamified experiences  
-- 🛒 **E-commerce & Subscriptions** – custom storefronts, MemberPress paywalls, recurring billing flows  
-- 💼 **Professional Services** – lead-gen, custom CRM integrations, high-converting marketing sites  
-- 🏋️ **Fitness & Wellness** – CrossFit coaching apps, training programs, transformation trackers  
-- 🧠 **AI & Developer Tools** – internal productivity tools, code-enhancing workflows, GPT/LLM integrations  
-- 🏛️ **Nonprofits & Faith-Based** – donation flows, events, content publishing platforms  
-- 🛠️ **Internal Ops & Portals** – dashboards, resource centers, headless CMS for custom workflows  
-
-All with a focus on **security**, **scalability**, and **clean architecture** — whether it's WordPress, Laravel, or headless React stacks.
+&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+&nbsp;&nbsp;&nbsp;&nbsp;⬛ `Senior Software Engineer` · `AI-Augmented Dev` · `WordCamp Europe Organizer`&nbsp;&nbsp;&nbsp;⬛  
+&nbsp;&nbsp;&nbsp;&nbsp;⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 ---
 
-## Tech Stack
+## `$ stack --current`
 
-- Frontend: React, Vue, Tailwind CSS, Vite, Vanilla JS
-- Backend: PHP, Laravel, Node.js, Express, MongoDB, MySQL
-- WordPress: WPGraphQL, REST API, MemberPress, LearnDash, BuddyBoss
-- DevOps: Docker, GitHub Actions, Continue.dev, Ollama, MCP Agents
+```yaml
+frontend:
+  - React · Next.js · SvelteKit
+  - Tailwind CSS · Vite · TypeScript
 
+backend:
+  - PHP · Laravel · Node.js
+  - WPGraphQL · REST · GraphQL
+
+wordpress:
+  - Headless architecture
+  - WooCommerce · MemberPress · LearnDash · ACF · BuddyBoss
+
+ai_and_dev:
+  - Claude · Continue.dev · Ollama
+  - MCP Agents · Local LLMs · GitHub Actions
+
+devops:
+  - Docker · Vercel · GitHub Actions
+```
 
 ---
 
-## Beyond Code
+## `$ community --events`
 
-- 🎨 Painter & Poet  
-- 🏃 Trail Runner | 🧗 Climber | 🚴 Off-Road Explorer | 💪 CrossFitter  
-- 🧠 Fascinated by Mysticism, Creation, and Consciousness  
-- 🎒 Living with **intention**, coding with **discipline**
+```
+╔══════════════════════════════════════════════════════╗
+║  WordCamp Europe                                     ║
+║  ──────────────────────────────────────────────────  ║
+║  [PT] Porto  · 2022 · Organizer                      ║
+║  [GR] Athens · 2023 · Organizer                      ║
+║  [PL] Krakow · 2026 · Organizer                      ║
+║                                                      ║
+║  WordPress Meetup Tirana [AL] · Organizer · ongoing  ║
+╚══════════════════════════════════════════════════════╝
+```
+> 🇵🇹 Porto &nbsp;·&nbsp; 🇬🇷 Athens &nbsp;·&nbsp; 🇵🇱 Kraków &nbsp;·&nbsp; 🇦🇱 Tirana
 
 ---
 
-## Connect With Me
+## `$ stats --github`
 
-- **Website**: [emilushi.dev](https://emilushi.dev)  
-- **LinkedIn**: [linkedin.com/in/emilushi](https://linkedin.com/in/emilushi)  
-- **Twitter**: [@edmilushi](https://twitter.com/edmilushi)  
-- **GitHub**: [github.com/emilushi](https://github.com/emilushi)
-- **Instagram**: [@edmilushi](https://www.instagram.com/edmilushi?igsh=MTZpam5vZjNwZTNzNA%3D%3D&utm_source=qr)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=emilushi&theme=dark&hide_border=true&background=0d0f14&ring=c8a96e&fire=c8a96e&currStreakLabel=e8e4dc&sideLabels=e8e4dc&dates=7a7f94)
+
+</div>
+
+---
+
+## `$ find . -name "*.human"`
+
+```
+beyond_the_code/
+├── painter/
+├── poet/
+├── trail_runner/
+├── climber/
+├── crossfitter/
+├── off_road_racer/
+├── reader/
+└── thinker/
+└── father/          # the only role I never clock out of
+    ├── AMLA/        # quiet genius · still waters · mademoiselle
+    └── MIA/         # unstoppable force · unbreakable · no off switch
+```
+
+---
+
+## `$ connect --all`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/emilushi.dev-0d0f14?style=for-the-badge&logo=safari&logoColor=c8a96e)](https://emilushi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0f14?style=for-the-badge&logo=linkedin&logoColor=c8a96e&labelColor=0d0f14)](https://linkedin.com/in/emilushi)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0f14?style=for-the-badge&logo=x&logoColor=c8a96e)](https://twitter.com/edmilushi)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0f14?style=for-the-badge&logo=instagram&logoColor=c8a96e)](https://www.instagram.com/edmilushi)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Built with intention. Deployed with discipline.
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=emilushi&color=c8a96e&style=flat-square&label=profile+views)
+
+</div>
