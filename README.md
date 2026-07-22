@@ -1,6 +1,6 @@
 <div align="center">
 
-![Eduard Milushi](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=500&lines=Eduard+Milushi;emilushi.dev;Senior+Software+Engineer)
+![Eduard Milushi](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=500&lines=Eduard+Milushi;Digital+Architect;emilushi.dev)
 
 > _"Most people have stopped thinking. I build for the ones who haven't."_
 
@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-`Senior Software Engineer` &nbsp;·&nbsp; `AI-Augmented Dev` &nbsp;·&nbsp; `WordCamp Europe Organizer`
+Digital Architect · WordCamp Europe Organizer · Building things that work beautifully.
 </div>
 
 ---
