@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-Digital Architect · WordCamp Europe Organizer · Building things that work beautifully.
+Digital Architect & AI-Augmented Developer | WordCamp Europe Organizer | Lead Software Engineer
 </div>
 
 ---
